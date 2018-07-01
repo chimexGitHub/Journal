@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Journal</string>
+
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+
+    <string name="action_delete_all_entries">Delete All Pets</string>
+
+
+    <string name="editor_activity_title_new_journal">Add a Pet</string>
+
+
+    <string name="action_save">Save</string>
+
+
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for mood information in the editor [CHAR LIMIT=30] -->
+    <string name="category_mood">Mood</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_measurement">Measurement</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_journal_name">Name</string>
+
+    <!-- Text hint for thought field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_journal_thoughts">Thoughts</string>
+
+
+    <!-- Label for dropdown menu option if the pet's gender is unknown [CHAR LIMIT=20] -->
+    <string name="mood_happy">Happy</string>
+
+    <string name="mood_sad">Sad</string>
+
+    <string name="mood_neutral">Neutral</string>
+</resources>

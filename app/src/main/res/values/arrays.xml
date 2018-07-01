@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_mood_options">
+        <item>@string/mood_happy</item>
+        <item>@string/mood_sad</item>
+        <item>@string/mood_neutral</item>
+    </string-array>
+</resources>
