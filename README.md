@@ -43,6 +43,5 @@ Okeke Chimezie
 This project is licensed under the MIT License 
 
 # ACKNOWLEDGEMENTS
-Udacity
 Thanks to Google, Udacity, ALC for everything so far, the mentors, experts on air sessions, and the amazing tutors on the udacity platform.
 
